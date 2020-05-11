@@ -1,2 +1,5 @@
 # Hello-World
-Creating a new repository
+
+Hello, the beautiful People....
+
+I am Smruti newly entered into gitHub...
